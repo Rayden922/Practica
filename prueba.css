@@ -79,7 +79,14 @@
         height: auto;
         
     }
-    
+    .first-text h3 {
+
+        font-size: 22px;
+        margin-left: 25px;
+    }
+    .first-text p{
+        margin-left: 45px;
+    }
 }
 
 @media (max-width: 540px)
